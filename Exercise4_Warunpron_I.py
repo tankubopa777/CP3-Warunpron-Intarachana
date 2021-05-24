@@ -5,7 +5,7 @@ ICS คือ คะแนนของ Introduction to Computer Systems
 CP คือ คะแนนของ Computer Programming
 """
 FE = 48.6
-GB = 51.9
+.GB = 51.9
 ICS = 68.7
 CP = 57
 print("---Your Score---")
