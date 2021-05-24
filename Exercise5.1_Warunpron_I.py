@@ -1,0 +1,7 @@
+x = int(input("กรุณาใส่ตัวเลขตัวที่ 1 :"))
+y = int(input("กรุณาใส่ตัวเลขตัวที่ 2 :"))
+print("ได้ผลลัพธ์ดังนี้")
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
